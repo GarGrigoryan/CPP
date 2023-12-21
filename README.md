@@ -1,3 +1,3 @@
 # C++
-C++ My Library
+C++ Library
 Written with templates
